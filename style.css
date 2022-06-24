@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+}
+
+.newtweet{
+    display: flex;
+    flex-direction: row;
+}
+
+.whitediv{
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+}
